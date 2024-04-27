@@ -38,8 +38,6 @@ JSON
 "contactEmail": "training@trani8.com",
 "contactPhone": "+1234567890"
 }
-Use code with caution.
-content_copy
 
 Response:
 
@@ -55,6 +53,8 @@ studentCapacity: Required, positive integer.
 coursesOffered: Optional, list of strings.
 contactEmail: Optional, if present, must be a valid email address.
 contactPhone: Optional, if present, must be a valid phone number.
+
+
 **2. Get List of Training Centers (GET /api/training-centers)
 
 Response:
