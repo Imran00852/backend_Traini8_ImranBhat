@@ -5,7 +5,7 @@ git clone https://github.com/<your-github-username>/backend-training-center.git
 
 
 2) Navigate to the project directory:
-cd backend-training-center
+cd backend-Traini8_imranBhat
 
 3) Install dependencies (using Maven):
 mvn clean install
